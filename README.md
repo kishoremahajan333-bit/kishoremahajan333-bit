@@ -65,7 +65,7 @@ SEO • Schema Markup • Analytics (GA4) • Real-time updates • Performance 
 **Tech:** React.js, Firebase  
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -74,6 +74,7 @@ SEO • Schema Markup • Analytics (GA4) • Real-time updates • Performance 
 </p>
 
 ---
+-->
 
 ### 🌐 Connect With Me
 
